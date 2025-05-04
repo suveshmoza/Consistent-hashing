@@ -1,0 +1,21 @@
+{
+  "name": "consistenthashing",
+  "version": "1.0.0",
+  "description": "Implementation of Consistent Hashing in TS",
+  "main": "dist/ConsistentHashing.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Suvesh Moza hellosuvesh@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
+    "vitest": "^3.1.2"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
